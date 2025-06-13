@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=https://pinklotus.pro/nickel">
+    <title>Redirection...</title>
+    <style>
+      html, body {
+        margin: 0;
+        padding: 0;
+        background: #ffffff;
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Vous êtes redirigé automatiquement -->
+  </body>
+</html>
